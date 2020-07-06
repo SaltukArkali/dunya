@@ -8,7 +8,10 @@ public class Dunya {
 		
 		System.out.println("Remote masterdan duzenleme yapildi");
 		
-
+		System.out.println("2");
+		System.out.println("D22 calismasi localden");
+		
+		
 	}
 
 }
