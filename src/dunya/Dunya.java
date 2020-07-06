@@ -5,7 +5,8 @@ public class Dunya {
 	public static void main(String[] args) {
 		System.out.println("1");
 		System.out.println("Localden master calismasi basladi");
-		
+		System.out.println("XXXXXXXXXXXXXXX");
+		System.out.println("XXXXXXXXXXXXXXX");
 		System.out.println("Remote masterdan duzenleme yapildi");
 		System.out.println("Bunu master olarak kabul edin.");
 		System.out.println("2");
