@@ -13,6 +13,7 @@ public class Dunya {
 		System.out.println("D22 calismasi localden - Aslinda d2 olacakti komut hata verdi");
 		System.out.println("XXXXXXXXXXXXXXX");
 		System.out.println("XXXXXXXXXXXXXXX");
+		System.out.println("XXXXXXXXXXXXXXX");
 		System.out.println("D22 remote da duzenleme yapildi");
 		
 		
