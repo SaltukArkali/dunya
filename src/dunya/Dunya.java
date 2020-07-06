@@ -11,6 +11,8 @@ public class Dunya {
 		System.out.println("2");
 		System.out.println("D22 calismasi localden");
 		
+		System.out.println("D22 remote da duzenleme yapildi")
+		
 		
 	}
 
